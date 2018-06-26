@@ -1,0 +1,10 @@
+
+ .container
+     {
+    width: 750px;
+    font-family: Arial, Verdana, sans-serif;
+    background: url("exercise.jfif");
+    background-repeat: no-repeat;
+    background-position: right top;
+
+}

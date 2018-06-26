@@ -1,7 +1,7 @@
 
 $(document).ready(function(){
 
-    var displayedButtons = ["Crazy Dance", "Run", "Jumprope", "Somersault"];
+    var displayedButtons = ["Dance", "Run", "Jumprope", "Somersault"];
 
     function displayImg(){
 
